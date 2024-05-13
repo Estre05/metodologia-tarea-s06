@@ -14,7 +14,7 @@ do{
     }
 }while(num != claveCorrecta);
 if(num === claveCorrecta){
-    alert("Operación Exitosa ");
+    alert("Operación Exitosa");
 }else{
     alert("Clave incorrecta");
 }
